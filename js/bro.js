@@ -1106,7 +1106,7 @@
 		img.addEventListener('load', data.success, false);
 		img.addEventListener('error', data.error, false);
 
-		img.src = 'http://statlex.com/img/statlex-icon.png?no-cache=' + Math.random();
+		img.src = 'http://statlex.com/img/elitapp-icon.png?no-cache=' + Math.random();
 
 	};
 
